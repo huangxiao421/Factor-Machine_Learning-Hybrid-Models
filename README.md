@@ -1,5 +1,5 @@
 # Factor-Machine_Learning-Hybrid-Models
-This repository contains Factor/Machine-Learning hybrid models, which combine component analysis with machine learning extensions
+This repository contains Factor/Machine-Learning hybrid models, which combine component analysis with machine learning extensions.
 
 The implemented model variations include:
 - Principal component analysis
