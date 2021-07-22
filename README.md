@@ -8,4 +8,4 @@ The implemented model variations include:
 - Boosting
 - Elastic Net (Ridge regression & LASSO)
 
-The project was part of my Bachelor Thesis, in which they were used to forecast Dutch national house pricing with macroeconomic variables. 
+The models were part of my Bachelor Thesis, in which they were used to forecast Dutch national house pricing with macroeconomic variables. 
